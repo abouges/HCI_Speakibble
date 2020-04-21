@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yellow_S" size="0.076200 0.069553" />
+    <ImageTarget name="yellow_back" size="0.076200 0.076125" />
+    <ImageTarget name="blue_back" size="0.076200 0.075979" />
+    <ImageTarget name="blue_10" size="0.076200 0.075366" />
+    <ImageTarget name="blue_9" size="0.076200 0.075366" />
+    <ImageTarget name="blue_8" size="0.076200 0.075366" />
+    <ImageTarget name="blue_7" size="0.076200 0.075366" />
+    <ImageTarget name="blue_6" size="0.076200 0.075366" />
+    <ImageTarget name="blue_5" size="0.076200 0.075366" />
+    <ImageTarget name="blue_4" size="0.076200 0.073723" />
+    <ImageTarget name="blue_3" size="0.076200 0.073723" />
+    <ImageTarget name="blue_2" size="0.076200 0.073723" />
+    <ImageTarget name="blue_1" size="0.076200 0.073723" />
+    <ImageTarget name="yellow_Z" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_Y" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_X" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_W" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_V" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_U" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_T" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_R" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_Q" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_P" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_O" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_N" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_M" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_L" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_K" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_J" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_I" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_H" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_G" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_F" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_E" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_Djpg" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_C" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_B" size="0.076200 0.076125" />
+    <ImageTarget name="yellow_A" size="0.076200 0.076125" />
+    <ImageTarget name="red_9" size="0.076200 0.077325" />
+    <ImageTarget name="red_back" size="0.076200 0.077325" />
+    <ImageTarget name="red_8" size="0.076200 0.077325" />
+    <ImageTarget name="red_7" size="0.076200 0.077325" />
+    <ImageTarget name="red_6" size="0.076200 0.077325" />
+    <ImageTarget name="red_5" size="0.076200 0.077325" />
+    <ImageTarget name="red_4" size="0.076200 0.077325" />
+    <ImageTarget name="red_3" size="0.076200 0.077325" />
+    <ImageTarget name="red_2" size="0.076200 0.077325" />
+    <ImageTarget name="red_1" size="0.076200 0.077325" />
+    <ImageTarget name="red_0" size="0.076200 0.077325" />
+  </Tracking>
+</QCARConfig>
